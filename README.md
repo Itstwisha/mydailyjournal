@@ -1,0 +1,2 @@
+# mydailyjournal
+Begin app
